@@ -75,12 +75,12 @@ if (text.includes("youtube")) {
 If your project uses API keys, create a .env file:
 API_KEY=yourkey
 
-📜 License
+## 📜 License
 
 This project is open-source.
 You can modify and use it freely.
 
-👤 Author
+## 👤 Author
 
 Charul
 Feel free to contribute or open issues!
